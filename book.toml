@@ -1,0 +1,6 @@
+[book]
+authors = ["helinyu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "rust book test"
